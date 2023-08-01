@@ -1,0 +1,87 @@
+
+body{
+   
+    background-image: url(above.webp);
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    
+}
+h1{
+    text-shadow: 2px 2px 10px rgb(55, 109, 44);
+    font-variant: small-caps;
+    color: rgba(0, 255, 255, 0.938);
+    text-align: 200px;
+}
+
+img{
+    text-align: right;
+}
+#I{
+    color: rgb(7, 250, 242);   
+}
+
+#prog{
+    text-shadow: 2px 2px 10px rgb(55, 109, 44);
+    color: rgba(9, 235, 235, 0.938);
+   
+}
+.prog{
+    margin-left: auto;
+    margin-right: auto;
+    color: rgba(9, 235, 235, 0.938);
+}
+
+}
+ol{
+    color: rgb(11, 12, 12);
+}
+
+#hobbies{
+    text-shadow: 2px 2px 10px rgb(55, 109, 44);
+    color: rgba(9, 235, 235, 0.938);
+}
+.hob{
+    margin-left: auto;
+    margin-right: auto;
+    color: rgba(9, 235, 235, 0.938);
+}
+
+}
+
+ul{
+    color: rgb(17, 19, 19);
+}
+
+
+
+
+.Table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-width: 3px;
+    border-color: darkcyan;
+    border-style: solid;
+    background-color: darkcyan;
+}
+
+.item{
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: ghostwhite;
+}
+
+.item1{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    background-color: rgb(0, 238, 255);
+}
+
+div{
+    text-shadow:2px 2px 4px rgb(12, 167, 228);
+    
+}
